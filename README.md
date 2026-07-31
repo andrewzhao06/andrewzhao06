@@ -129,22 +129,3 @@ Hey! I'm Andrew, an undergrad studying **Computer Science and Engineering** (mat
 | **🤖 Simbiote** | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> Python · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/> PyTorch · PyBullet | Offline, air-gapped robotics platform: scan → simulate → train → operate a mobile manipulator on one machine, no cloud. I owned **agentic control** — language in, one validated LLM call, then a state machine that checks preconditions, times out hung skills, and grounds every noun to a real scene-graph ID so it can't invent objects. Built at the **Dell × NVIDIA GB10 Hackathon**. |
 | **📄 Marginalia** | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/> Next.js · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/> TypeScript · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> Python | Evidence-first research reader. Click "Figure 3," see Figure 3, keep reading. A Python extraction pipeline rebuilds the paper as a typed graph of claims, figures, and citations under one normalized coordinate contract; generated content is rejected unless it cites real source evidence. |
 | **📌 PinDev** | <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/> PostgreSQL · <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/> TypeScript | Pinterest-style discovery for live developer projects. Hybrid search (full-text + `pg_trgm` fuzzy matching + query expansion) feeding a relevance pipeline, plus an engagement-based feed-ranking algorithm with time decay and exploration boosting. |
-
-<!--
-===============================================================================
-SETUP NOTES — delete this comment block once everything is running.
-
-1. REPO NAME. This file only renders on your profile if it lives in a public
-   repo named exactly `andrewzhao06/andrewzhao06`, at the root, as README.md.
-
-2. THE SNAKE. It comes from .github/workflows/snake.yml in this same repo.
-   The image 404s until the workflow runs once:
-     Actions tab -> "Generate Snake" -> Run workflow
-   After that it regenerates every 12 hours automatically.
-
-3. PROJECT LINKS. The table has no links yet, on purpose:
-     - Simbiote's repo is private, so a link would 404 for visitors.
-     - Marginalia and PinDev need whichever URL you want public.
-   Add them as [**🤖 Simbiote**](https://...) once you've decided.
-===============================================================================
--->
