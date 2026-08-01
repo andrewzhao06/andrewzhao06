@@ -1,13 +1,26 @@
-## Hi there, I'm Andrew 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andrewzhao06/andrewzhao06/main/header-terminal.svg" alt="Andrew Zhao — whoami" width="680" />
+</div>
 
-I'm a **Computer Science and Engineering** undergrad (math minor) at **UC Irvine**, and I like building systems where the hard part is the architecture, not the demo. A few things I'm up to:
+<br>
 
-- 🏭 I'm the **sole PM and developer** of a production **Quality Management System** at **AlphaThera** — an ISO 9001:2015-compliant platform now used across the entire company, replacing a five-figure/year vendor tool. Schema design, RBAC, e-signature workflows, testing, releases: I own all of it.
-- 🧠 I research **memory-augmented LLMs** with the **Algoverse AI Research Program**. Our paper, *"Mitigating Cross-Domain Memory Contamination via Structured Memory,"* was accepted to **three ICML 2026 workshops** (MemFM, CompLearn, AIWILD) — and I built the benchmarking pipeline behind it.
-- 🤖 At the **Dell × NVIDIA GB10 Hackathon**, I built the **agentic control layer** for [**Simbiote**](#-selected-projects): natural language in, a validated plan out, run by a fault-tolerant state machine that refuses to act on objects it can't actually see.
-- 📄 I'm building [**Marginalia**](#-selected-projects), an evidence-first research reader — because a paper isn't a stack of pages, it's a network of evidence, and it shouldn't be flattened into one.
-- 🗣️ I speak **English**, **Mandarin Chinese**, and **Swedish**.
-- 📫 Reach me on <a href="https://linkedin.com/in/andrewzhao06"><strong>LinkedIn</strong></a> or at <a href="mailto:andzhao06@gmail.com"><strong>andzhao06@gmail.com</strong></a>.
+## Hi there 👋
+
+Hey! I'm Andrew — a **Computer Science and Engineering** undergrad at **UC Irvine**, with a minor in math. I like the kind of problem where the hard part is the architecture and not the demo, and I like it a lot more when the thing I built ends up getting used by someone who isn't me.
+
+**What I'm working on**
+
+- 🏭 I'm the **sole product manager and developer** for a production **Quality Management System** at **AlphaThera** — an ISO 9001:2015-compliant platform the whole company runs on, which replaced a five-figure/year vendor tool. I own it end to end: schema design, RBAC, e-signature workflows, testing, and releases.
+- 🧠 I do research with the **Algoverse AI Research Program** on memory-augmented LLMs. Our paper *"Mitigating Cross-Domain Memory Contamination via Structured Memory"* was accepted to **three ICML 2026 workshops** (MemFM, CompLearn, AIWILD). I built the benchmarking pipeline it runs on.
+- 🤖 I built the **agentic control system** for [Simbiote](#-selected-projects) at the **Dell × NVIDIA GB10 Hackathon** — natural language in, a validated plan out, executed by a fault-tolerant state machine that refuses to hallucinate objects that aren't in the room.
+- 📄 I'm building [**Marginalia**](#-selected-projects), an evidence-first research reader. The premise: a paper isn't a stack of pages, it's an evidence network that got flattened into one. So stop flattening it.
+
+**Outside of that**
+
+- 🎾 Tennis came before any of this. I played for years and then coached it — 50+ students, every age and skill level — which is still the best training I've had for explaining one idea three different ways until one of them lands.
+- 🍜 I take eating very seriously. I keep a running list of places I haven't tried yet and it never gets shorter, because a new spot goes on faster than I can cross one off. Genuinely the fastest way to get my attention is to tell me about somewhere I've never heard of.
+- 🗣️ I speak **English**, **Mandarin Chinese**, and **Swedish**, which mostly means I can order with confidence in three very different places.
+- 📫 Reach me on <a href="https://linkedin.com/in/andrewzhao06"><strong>LinkedIn</strong></a> or at <a href="mailto:andzhao06@gmail.com"><strong>andzhao06@gmail.com</strong></a> — for work or for restaurant recommendations, I'm not picky.
 
 <br><br>
 
@@ -61,47 +74,17 @@ I'm a **Computer Science and Engineering** undergrad (math minor) at **UC Irvine
 
 <div align="center">
 
-### 🧨 Minesweeper — click a tile to reveal it
+🍃🐍🍃 &nbsp; <b>watch the little guy snack on a year of my commits</b> &nbsp; 🍃🐍🍃
 
-<em>5 mines hidden in the grid below. Click a 🟩 to flip it. (Pure HTML, no scripts — so yes, the answers are technically in the source. 😉)</em>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewzhao06/andrewzhao06/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewzhao06/andrewzhao06/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/andrewzhao06/andrewzhao06/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<table>
-  <tr>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary>💣</details></td>
-    <td align="center"><details><summary>🟩</summary><b>2</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-  </tr>
-  <tr>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>2</b></details></td>
-    <td align="center"><details><summary>🟩</summary>💣</details></td>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-  </tr>
-  <tr>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>2</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>2</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>2</b></details></td>
-  </tr>
-  <tr>
-    <td align="center"><details><summary>🟩</summary>💣</details></td>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary>💣</details></td>
-    <td align="center"><details><summary>🟩</summary><b>2</b></details></td>
-  </tr>
-  <tr>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>1</b></details></td>
-    <td align="center"><details><summary>🟩</summary><b>2</b></details></td>
-    <td align="center"><details><summary>🟩</summary>💣</details></td>
-  </tr>
-</table>
+<br>
+
+🌱 &nbsp; <sub><i>regrows every 12 hours · 🍎 fed on a full year of contributions</i></sub> &nbsp; 🌿
 
 </div>
 
@@ -110,9 +93,10 @@ I'm a **Computer Science and Engineering** undergrad (math minor) at **UC Irvine
 <details>
   <summary><strong>Algoverse AI Research Program (Jan 2026 – Present)</strong></summary>
 
-- Co-authored **"Mitigating Cross-Domain Memory Contamination via Structured Memory,"** accepted to three **ICML 2026** workshops (MemFM, CompLearn, AIWILD) — what happens when a memory-augmented LLM carries context across domains it shouldn't, and how partitioning that memory fixes it.
+- Co-authored **"Mitigating Cross-Domain Memory Contamination via Structured Memory"**, accepted to three **ICML 2026** workshops (MemFM, CompLearn, AIWILD). We look at what happens when a memory-augmented LLM carries context across domains it shouldn't — and how partitioning that memory fixes it.
 - Built and owned **PersistBench**, the benchmarking pipeline behind the paper: seven proprietary and open-weight models, automated through Vertex AI and Azure AI Foundry.
 - Cut cross-domain leakage by an average of **8.8%** against flat-memory baselines, across 500-sample runs per model condition.
+- Spent a lot of time on the unglamorous half — judge calibration, prompt engineering, and failure-mode analysis — because an eval you don't trust is worse than no eval.
 
 </details>
 
@@ -146,9 +130,10 @@ I'm a **Computer Science and Engineering** undergrad (math minor) at **UC Irvine
   <summary><strong>Solo Product Manager & Software Developer – AlphaThera (Apr 2026 – Present)</strong></summary>
 
 - Sole PM and developer for a **Quality Management System** used by 20–25 employees, replacing the vendor platform Qualio and cutting **$10,000+/year** in software cost.
-- Full-stack: **React/Vite PWA**, **NestJS** REST API, **PostgreSQL** — shipped in iterative releases with **Playwright** end-to-end coverage.
-- Designed the data layer for regulatory reality: **100+ migrations**, row-level security, database triggers, and immutable audit logging to satisfy **ISO 9001:2015**.
+- Built as a full-stack web app: **React/Vite PWA**, **NestJS** REST API, **PostgreSQL** — shipped in iterative releases with **Playwright** end-to-end coverage and production deployment.
+- Designed the data layer for regulatory reality: **100+ migrations**, row-level security policies, database triggers, and immutable audit logging to satisfy **ISO 9001:2015**.
 - Built a configurable **RBAC** system and a multi-stage **e-signature workflow** driving org-wide document control, training, and change control.
+- Partner directly with quality leadership to turn regulatory requirements into shipped features — the interesting part is usually the translation, not the code.
 
 </details>
 

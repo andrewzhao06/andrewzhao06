@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" width="680" height="200" role="img" aria-label="Claude Code terminal welcoming Andrew">
+  <style>
+    .cursor { animation: blink 1.1s steps(1, end) infinite; }
+    @keyframes blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
+  </style>
+
+  <!-- window -->
+  <rect x="8" y="8" width="664" height="184" rx="14" fill="#262624" stroke="#3a3a36" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <circle cx="34" cy="34" r="6" fill="#ff5f56"/>
+  <circle cx="54" cy="34" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="34" r="6" fill="#27c93f"/>
+  <text x="340" y="39" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#8a8a84"><tspan fill="#d97757">✻</tspan> claude</text>
+  <line x1="20" y1="54" x2="660" y2="54" stroke="#3a3a36" stroke-width="1"/>
+
+  <!-- body -->
+  <text x="34" y="86" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15">
+    <tspan fill="#7ee787">andrew@uci</tspan><tspan fill="#8a8a84">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8a8a84">$</tspan><tspan fill="#ecece7"> whoami</tspan>
+  </text>
+
+  <text x="34" y="123" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="27" font-weight="700" fill="#ecece7">Andrew Zhao</text>
+  <rect class="cursor" x="215" y="102" width="13" height="26" fill="#d97757"/>
+
+  <!-- subtitle -->
+  <text x="34" y="162" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#d97757">✻ <tspan fill="#b6b6af">CSE + Math @ UC Irvine — I build systems that get used.</tspan></text>
+</svg>
