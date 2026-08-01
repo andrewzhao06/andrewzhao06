@@ -4,25 +4,24 @@
 
 <br>
 
-## Hi there 👋
+## 🧍 About Me
 
-Hey! I'm Andrew — a **Computer Science and Engineering** undergrad at **UC Irvine**, with a minor in math. I like the kind of problem where the hard part is the architecture and not the demo, and I like it a lot more when the thing I built ends up getting used by someone who isn't me.
+Hey 😃 I'm Andrew, an undergrad studying **Computer Science & Engineering** (with a math minor) at **UC Irvine**. Here's some more about me:
 
-**What I'm working on**
+- 🏭 Right now I'm the **sole product manager and developer** of a production **Quality Management System** at **AlphaThera** — an ISO 9001:2015-compliant platform the whole company runs on every day, which replaced a five-figure/year vendor tool. I own the entire thing: schema design, RBAC, e-signature workflows, testing, and releases.
+- 🏆 I recently **won the Dell × NVIDIA GB10 Hackathon** with **Simbiote**, an offline, air-gapped robotics platform — scan a room, simulate it, train, and drive a mobile manipulator all on one machine, no cloud required. I built the agentic control system: natural language in, a validated plan out, run by a fault-tolerant state machine that flat-out refuses to hallucinate objects that aren't actually in the room.
+- 🧠 I do research with the **Algoverse AI Research Program** on memory-augmented LLMs. Our paper *"Mitigating Cross-Domain Memory Contamination via Structured Memory"* got accepted to **three ICML 2026 workshops** (MemFM, CompLearn, AIWILD), and I built the benchmarking pipeline (**PersistBench**) it runs on.
+- 🔬 Lately I've been falling down the **mechanistic interpretability** rabbit hole — I'm especially itching to dig into the **JSpace paper**. Always happy to swap paper recs, so hit me up if you've got one you think I'd love!
+- 📄 On the side I'm building **Marginalia**, an evidence-first research reader — a paper isn't a stack of pages, it's an evidence network that got flattened into one, so I'm trying to un-flatten it.
+- 💻 When I'm not building something, I'm grinding **LeetCode** and going deeper on **data structures & algorithms** — trying to get genuinely sharp at the fundamentals instead of just pattern-matching.
+- 🎾 Outside of tech, you'll usually find me walking my dog, playing tennis (I coached 50+ students back in the day!), or at the gym.
+- 🗣️ I also speak **English**, **Mandarin Chinese**, and **Swedish**.
+- 📫 Reach me via [my LinkedIn](https://linkedin.com/in/andrewzhao06) or at [andzhao06@gmail.com](mailto:andzhao06@gmail.com)!
+- 🍜 Bonus: I will happily derail any conversation for a good restaurant recommendation.
 
-- 🏭 I'm the **sole product manager and developer** for a production **Quality Management System** at **AlphaThera** — an ISO 9001:2015-compliant platform the whole company runs on, which replaced a five-figure/year vendor tool. I own it end to end: schema design, RBAC, e-signature workflows, testing, and releases.
-- 🧠 I do research with the **Algoverse AI Research Program** on memory-augmented LLMs. Our paper *"Mitigating Cross-Domain Memory Contamination via Structured Memory"* was accepted to **three ICML 2026 workshops** (MemFM, CompLearn, AIWILD). I built the benchmarking pipeline it runs on.
-- 🤖 I built the **agentic control system** for [Simbiote](#-selected-projects) at the **Dell × NVIDIA GB10 Hackathon** — natural language in, a validated plan out, executed by a fault-tolerant state machine that refuses to hallucinate objects that aren't in the room.
-- 📄 I'm building [**Marginalia**](#-selected-projects), an evidence-first research reader. The premise: a paper isn't a stack of pages, it's an evidence network that got flattened into one. So stop flattening it.
+<br>
 
-**Outside of that**
-
-- 🎾 Tennis came before any of this. I played for years and then coached it — 50+ students, every age and skill level — which is still the best training I've had for explaining one idea three different ways until one of them lands.
-- 🍜 I take eating very seriously. I keep a running list of places I haven't tried yet and it never gets shorter, because a new spot goes on faster than I can cross one off. Genuinely the fastest way to get my attention is to tell me about somewhere I've never heard of.
-- 🗣️ I speak **English**, **Mandarin Chinese**, and **Swedish**, which mostly means I can order with confidence in three very different places.
-- 📫 Reach me on <a href="https://linkedin.com/in/andrewzhao06"><strong>LinkedIn</strong></a> or at <a href="mailto:andzhao06@gmail.com"><strong>andzhao06@gmail.com</strong></a> — for work or for restaurant recommendations, I'm not picky.
-
-<br><br>
+## 💪 Languages and Tools
 
 <!-- Icons from https://github.com/devicons/devicon -->
 <p style="display:inline-block;" align="center">
@@ -70,7 +69,16 @@ Hey! I'm Andrew — a **Computer Science and Engineering** undergrad at **UC Irv
 
 </p>
 
-<br>
+## 💖 Let's Get Connected
+
+I always love meeting new people! Here are my socials:
+
+<p>
+  <a href="https://linkedin.com/in/andrewzhao06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:andzhao06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+## 🌿 Contribution Chart
 
 <div align="center">
 
