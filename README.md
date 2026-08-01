@@ -91,63 +91,6 @@ I always love meeting new people! Here are my socials:
 
 </div>
 
-## 🧪 Research
-
-<details>
-  <summary><strong>Algoverse AI Research Program (Jan 2026 – Present)</strong></summary>
-
-- Co-authored **"Mitigating Cross-Domain Memory Contamination via Structured Memory"**, accepted to three **ICML 2026** workshops (MemFM, CompLearn, AIWILD): what happens when a memory-augmented LLM carries context across domains it shouldn't, and how partitioning that memory fixes it.
-- Built and owned **PersistBench**, the benchmarking pipeline behind the paper: seven proprietary and open-weight models, automated through Vertex AI and Azure AI Foundry.
-- Cut cross-domain leakage by an average of **8.8%** against flat-memory baselines, across 500-sample runs per model condition.
-- Spent real time on the unglamorous half: judge calibration, prompt engineering, and failure-mode analysis, because an eval you don't trust is worse than no eval.
-
-</details>
-
-<details>
-  <summary><strong>Polygence · Supervised Research (May 2024 – Apr 2025)</strong></summary>
-
-- Researched AI applications in sustainability and climate modeling under **Jeremy Bigness, Ph.D.** (Agilent Laboratories).
-- Published *"Harnessing the Power of Artificial Intelligence to Combat Climate Change"* in the **Curieux Academic Journal**.
-
-</details>
-
-## 🎓 Education
-
-**University of California, Irvine | B.S. Computer Science and Engineering, Minor in Mathematics.** GPA 3.8/4.0, expected June 2028.
-
-<details>
-  <summary><strong>Relevant Coursework</strong></summary>
-
-- **Data Structures & Algorithms**
-- **C++ Programming**
-- **Software Engineering**
-- **Software Testing**
-- **Linear Algebra**
-- **Discrete Mathematics**
-
-</details>
-
-## 💼 Experience
-
-<details>
-  <summary><strong>Solo PM & Software Developer · AlphaThera (Apr 2026 – Present)</strong></summary>
-
-- Sole PM and developer for a **Quality Management System** used by 20–25 employees, replacing the vendor platform Qualio and cutting **$10,000+/year** in software cost.
-- Full-stack web app: **React/Vite PWA**, **NestJS** REST API, **PostgreSQL**, shipped in iterative releases with **Playwright** end-to-end coverage.
-- Designed the data layer for regulatory reality: **100+ migrations**, row-level security, database triggers, and immutable audit logging to satisfy **ISO 9001:2015**.
-- Built a configurable **RBAC** system and a multi-stage **e-signature workflow** driving org-wide document control, training, and change control.
-- Partner with quality leadership to turn regulatory requirements into shipped features; the interesting part is usually the translation, not the code.
-
-</details>
-
-<details>
-  <summary><strong>Tennis Instructor · PRO Sports Club (Jul 2022 – Aug 2023)</strong></summary>
-
-- Coached 50+ students in private and group lessons across every age and skill level.
-- Handled scheduling, client communication, and tournament logistics.
-
-</details>
-
 ## 🚀 Selected Projects
 
 | Project | Tech Stack | What It Does |
