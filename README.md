@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-Hey! I'm Andrew, an undergrad studying **Computer Science and Engineering** (math minor) at **UC Irvine**. I like building systems where the hard part is the architecture, not the demo.
+Hey! I'm Andrew, an undergrad studying **Computer Science and Engineering** (math minor) at **UC Irvine**. I like building things!
 
+Some of the things that I am doing:
 - 🏭 **Sole PM and developer** of a production **Quality Management System** at **AlphaThera** — an ISO 9001:2015-compliant platform used company-wide that replaced a five-figure/year vendor tool. I own it end to end: schema, RBAC, e-signature workflows, testing, releases.
 - 🧠 Research with the **Algoverse AI Research Program** on memory-augmented LLMs. Our paper *"Mitigating Cross-Domain Memory Contamination via Structured Memory"* was accepted to **three ICML 2026 workshops** (MemFM, CompLearn, AIWILD). I built the benchmarking pipeline behind it.
 - 🤖 Built the **agentic control system** for [Simbiote](#-selected-projects) at the **Dell × NVIDIA GB10 Hackathon** — language in, a validated plan out, executed by a fault-tolerant state machine that won't hallucinate objects that aren't in the room.
