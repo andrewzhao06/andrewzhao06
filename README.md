@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrewzhao06/andrewzhao06/main/header-terminal.svg" alt="Andrew Zhao — whoami" width="680" />
+  <img src="https://raw.githubusercontent.com/andrewzhao06/andrewzhao06/main/andrew-banner.svg" alt="Welcome to Andrew's GitHub" width="700" />
 </div>
 
 <br>
