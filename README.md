@@ -11,10 +11,6 @@ Hey 😃 I'm Andrew, an undergrad studying **Computer Science & Engineering** (w
 - 🏭 Right now I'm the **sole product manager and developer** of a production **Quality Management System** at **AlphaThera**, an ISO 9001:2015-compliant platform the whole company runs on daily that replaced a five-figure/year vendor tool. I own all of it: schema, RBAC, e-signature workflows, testing, and releases.
 - 🏆 I recently **won the Dell × NVIDIA GB10 Hackathon** with **Simbiote**, an offline, air-gapped robotics platform: scan a room, simulate it, train, and drive a mobile manipulator on one machine, no cloud. I built the agentic control system, so natural language goes in, a validated plan comes out, and a fault-tolerant state machine runs it without hallucinating objects that aren't in the room.
 - 🧠 I do research with the **Algoverse AI Research Program** on memory-augmented LLMs. Our paper *"Mitigating Cross-Domain Memory Contamination via Structured Memory"* was accepted to **three ICML 2026 workshops** (MemFM, CompLearn, AIWILD), and I built the benchmarking pipeline (**PersistBench**) behind it.
-- 🔬 Lately I've been falling down the **mechanistic interpretability** rabbit hole, and I'm especially itching to dig into the **JSpace paper**. Always happy to swap paper recs, so hit me up if you've got one you think I'd love!
-- 💻 When I'm not building, I'm grinding **LeetCode** and going deeper on **data structures & algorithms**, trying to get genuinely sharp at the fundamentals instead of just pattern-matching.
-- 🎾 Outside of tech, you'll usually find me walking my dog, playing tennis (I coached 50+ students back in the day!), or at the gym.
-- 🗣️ I also speak **English**, **Mandarin Chinese**, and **Swedish**.
 - 📫 Reach me via [my LinkedIn](https://linkedin.com/in/andrewzhao06) or at [andzhao06@gmail.com](mailto:andzhao06@gmail.com)!
 - 🍜 Bonus: I'll happily derail any conversation for a good restaurant rec.
 
